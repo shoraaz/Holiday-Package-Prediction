@@ -1,5 +1,6 @@
 Description:
 Developed a machine learning model to predict customer likelihood of purchasing a new Wellness Tourism package, improving marketing efficiency for "Trips & Travel.Com". Analyzed a dataset of 4,888 customer records with 20 features, addressing an 18% historical purchase rate for holiday packages.
+
 Key Achievements:
 
 Conducted comprehensive data cleaning and feature engineering, handling missing values across 8 features and creating a new 'TotalVisiting' feature.
